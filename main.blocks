@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id=";dic0j?Jk=1BRnYhnDsT" x="0" y="0"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_print_message" id="^h6JTo33s1Yu?P:|_r+M"><value name="text"><shadow type="text"><field name="TEXT">Hello!</field></shadow><block type="device_random" id="F!%QxX|7lk-PRxWI$lX~"><value name="min"><shadow type="math_number" id="AioiV7dV-D)SrOnH#R+W"><field name="NUM">1</field></shadow></value><value name="limit"><shadow type="math_number" id="$S]u2tL[XyhUZ|FC4Q[+"><field name="NUM">6</field></shadow></value></block></value><next><block type="device_show_leds" id="?AEw01`EyZLX_O=%5@.0"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_print_message" id="Lz1S%BXQHs70`x_%QF_v"><value name="text"><shadow type="text"><field name="TEXT">Hello!</field></shadow><block type="device_random" id="v.POP+4X~VF3ZN$-U8r;"><value name="min"><shadow type="math_number" id="#|Bg]}r;SSIzZ{pS#[Gi"><field name="NUM">1</field></shadow></value><value name="limit"><shadow type="math_number" id="*3Nv34S3$_6s34t/=_BZ"><field name="NUM">6</field></shadow></value></block></value><next><block type="device_clear_display" id="kpNqzr#P~yC(B[Mxip9!"></block></next></block></next></block></next></block></statement></block></xml>
